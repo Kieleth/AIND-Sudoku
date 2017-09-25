@@ -1,3 +1,5 @@
+Code complete for Artificial Intelligence nanodegree course for Udacity
+
 # Artificial Intelligence Nanodegree
 ## Introductory Project: Diagonal Sudoku Solver
 
